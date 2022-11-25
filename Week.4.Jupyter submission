@@ -1,8 +1,10 @@
 #My Jupyter on IBM Watson Studio
 ##**Westley Johnson**
 *I am interested in data science so I may be able to perform back end items on our servers at my job*
-### Human Intuition summed up
+### __The Following is the gauss formula in code format__
 def gauss(n):
-Retun (n*(n=1))/2
+	 Return (n*(n=1))/2
 
 Gauss(100) == sum(range(101))
+
+https://mathbitsnotebook.com/Algebra2/Sequences/SSGauss.html
